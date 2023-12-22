@@ -3,6 +3,10 @@
 
 #include "ray.h"
 
+#include "rtweekend.h"
+
+class material;
+
 class hit_record {
   public:
     point3 p;
