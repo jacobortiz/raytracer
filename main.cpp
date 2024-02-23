@@ -1,5 +1,3 @@
-#include <omp.h> // OpenMP header
-
 #include "rtweekend.h"
 
 #include "camera.h"
